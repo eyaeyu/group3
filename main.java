@@ -1,9 +1,16 @@
 public class main{
     void eyob(){
         System.out.println("i am eyob chiksa");
+        System.out.println("i am a software engineer");
+        System.out.println("id 0489/13");
     }
       void hareg(){
         System.out.println("i am Yewoynhareg Mulugeta");
+    }
+    void eyu(){
+        System.out.println("i am eyerusalem fikadu");
+        System.out.println("id 0395/13");
+        System.out.println("software engineer");
     }
 public class add{
     int x=10;
