@@ -5,7 +5,10 @@
     int y=5;
     int z=x+y;
     void show(){
-        System.out.println("i am khadar ");
+        System.out.println("my name...................khadar mohamed");
+        System.out.println("my id..................... 0489/13");
+        System.out.println("i am a software engineer in debre berham universite");
+        
         System.out.println("z = " + z);
         
     }
